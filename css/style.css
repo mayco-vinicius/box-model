@@ -1,0 +1,19 @@
+* {
+    margin: 50px;
+}
+
+#box-model {
+    width: 500px;
+    height: 200px;
+    background: #289624;
+    border: 10px solid #503b13;
+    outline: 5px dashed #12deb5; 
+}
+
+.title {
+    color: #fff;
+}
+
+.text {
+    color: #ddf1ed;
+}
